@@ -31,3 +31,11 @@ This project implements a **binary tree-based message decoder** for messages com
 
 ```bash
 javac MsgTree.java
+java MsgTree cadbard.arch
+java MsgTree twocities.arch
+java MsgTree monalisa.arch
+java MsgTree constitution.arch
+
+
+
+
